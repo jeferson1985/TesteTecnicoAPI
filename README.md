@@ -2,7 +2,7 @@
 # Teste técnico para desenvolvimento Backend
 # Especificações
 
-<p>Elaboração de uma API simplificada para dados de sensoriamento, onde será possível inserir dados de peso de <br>ração adquirida em um silo e depois poder requisitar os dados salvos   de peso desse único silo (entre os demais existentes)</p>
+<p>-Elaboração de uma API simplificada para dados de sensoriamento, onde será possível inserir dados de peso de <br>ração adquirida em um silo e depois poder requisitar os dados salvos   de peso desse único silo (entre os demais existentes)</p>
 <p>-Utilizando a linguagem de programação Python</p>
 <p>-Desenvolver uma API Rest em Python e criar um projeto django com os Serializers, Models e Views.</p>
 <p>-Para rodar o projeto basta clonar repositório do github.com</p>
