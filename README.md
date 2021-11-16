@@ -21,3 +21,11 @@
 
 <p>-Rotas localhost:8000</p>
 <p>-Rotas localhost:8000/admin</p>
+<p>-Rotas http://127.0.0.1:8000/silo_feed_acquisition/</p>
+<p>-Rotas http://127.0.0.1:8000/silo_feed_weight/</p>
+<p>-Rotas http://127.0.0.1:8000/admin/sensoriamento/alimentacaosilo/</p>
+<p>-Rotas http://127.0.0.1:8000/admin/sensoriamento/entregaracao/</p>
+
+
+
+
